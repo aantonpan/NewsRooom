@@ -6,7 +6,7 @@ margin: 0 auto;
 
 
 h1 {
-    	font-family: 'Major Mono Display', monospace;
+    	font-family: 'Roboto', monospace;
 	margin-left: 1.66%;
   font-weight: 800;
   border-bottom: 2px solid #F1F1F1;
@@ -21,6 +21,10 @@ h1 {
     font-size: 50px;
     letter-spacing: 0.021em;
     line-height: 1.2;
+}
+
+img {
+  border-radius: 8px;
 }
 
 .foot {
